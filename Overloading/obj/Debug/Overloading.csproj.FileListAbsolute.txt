@@ -1,0 +1,7 @@
+D:\BSU\TP-Solutions\Demos\Overloading\bin\Debug\Overloading.exe.config
+D:\BSU\TP-Solutions\Demos\Overloading\bin\Debug\Overloading.exe
+D:\BSU\TP-Solutions\Demos\Overloading\bin\Debug\Overloading.pdb
+D:\BSU\TP-Solutions\Demos\Overloading\obj\Debug\Overloading.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\Overloading\obj\Debug\Overloading.exe
+D:\BSU\TP-Solutions\Demos\Overloading\obj\Debug\Overloading.pdb
+D:\BSU\TP-Solutions\Demos\Overloading\obj\Debug\Overloading.csprojAssemblyReference.cache

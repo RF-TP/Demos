@@ -1,0 +1,6 @@
+D:\BSU\TP-Solutions\Demos\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+D:\BSU\TP-Solutions\Demos\AccessModifiers\bin\Debug\AccessModifiers.exe
+D:\BSU\TP-Solutions\Demos\AccessModifiers\bin\Debug\AccessModifiers.pdb
+D:\BSU\TP-Solutions\Demos\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\AccessModifiers\obj\Debug\AccessModifiers.exe
+D:\BSU\TP-Solutions\Demos\AccessModifiers\obj\Debug\AccessModifiers.pdb

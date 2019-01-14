@@ -1,0 +1,7 @@
+D:\BSU\TP-Solutions\Demos\Overriding\bin\Debug\Overriding.exe.config
+D:\BSU\TP-Solutions\Demos\Overriding\bin\Debug\Overriding.exe
+D:\BSU\TP-Solutions\Demos\Overriding\bin\Debug\Overriding.pdb
+D:\BSU\TP-Solutions\Demos\Overriding\obj\Debug\InheritanceAndOverriding.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\Overriding\obj\Debug\Overriding.exe
+D:\BSU\TP-Solutions\Demos\Overriding\obj\Debug\Overriding.pdb
+D:\BSU\TP-Solutions\Demos\Overriding\obj\Debug\InheritanceAndOverriding.csprojAssemblyReference.cache

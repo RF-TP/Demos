@@ -1,0 +1,7 @@
+D:\BSU\TP-Solutions\Demos\ValueVsReference\obj\Debug\ValueVsReference.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\ValueVsReference\bin\Debug\ValueVsReference.exe.config
+D:\BSU\TP-Solutions\Demos\ValueVsReference\bin\Debug\ValueVsReference.exe
+D:\BSU\TP-Solutions\Demos\ValueVsReference\bin\Debug\ValueVsReference.pdb
+D:\BSU\TP-Solutions\Demos\ValueVsReference\obj\Debug\ValueVsReference.exe
+D:\BSU\TP-Solutions\Demos\ValueVsReference\obj\Debug\ValueVsReference.pdb
+D:\BSU\TP-Solutions\Demos\ValueVsReference\obj\Debug\ValueVsReference.csprojAssemblyReference.cache

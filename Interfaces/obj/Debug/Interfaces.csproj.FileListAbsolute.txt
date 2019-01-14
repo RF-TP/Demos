@@ -1,0 +1,7 @@
+D:\BSU\TP-Solutions\Demos\Interfaces\bin\Debug\Interfaces.exe.config
+D:\BSU\TP-Solutions\Demos\Interfaces\bin\Debug\Interfaces.exe
+D:\BSU\TP-Solutions\Demos\Interfaces\bin\Debug\Interfaces.pdb
+D:\BSU\TP-Solutions\Demos\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\BSU\TP-Solutions\Demos\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\Interfaces\obj\Debug\Interfaces.exe
+D:\BSU\TP-Solutions\Demos\Interfaces\obj\Debug\Interfaces.pdb

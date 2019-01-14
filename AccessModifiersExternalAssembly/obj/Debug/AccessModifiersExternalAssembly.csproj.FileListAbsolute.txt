@@ -1,0 +1,10 @@
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\obj\Debug\AccessModifiersExternalAssembly.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\bin\Debug\AccessModifiersExternalAssembly.exe.config
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\bin\Debug\AccessModifiersExternalAssembly.exe
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\bin\Debug\AccessModifiersExternalAssembly.pdb
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\obj\Debug\AccessModifiersExternalAssembly.exe
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\obj\Debug\AccessModifiersExternalAssembly.pdb
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\bin\Debug\AccessModifiers.exe
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\bin\Debug\AccessModifiers.pdb
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\bin\Debug\AccessModifiers.exe.config
+D:\BSU\TP-Solutions\Demos\AccessModifiersExternalAssembly\obj\Debug\AccessModifiersExternalAssembly.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\BSU\TP-Solutions\Demos\Common\bin\Debug\Common.exe.config
+D:\BSU\TP-Solutions\Demos\Common\bin\Debug\Common.exe
+D:\BSU\TP-Solutions\Demos\Common\bin\Debug\Common.pdb
+D:\BSU\TP-Solutions\Demos\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\BSU\TP-Solutions\Demos\Common\obj\Debug\Common.exe
+D:\BSU\TP-Solutions\Demos\Common\obj\Debug\Common.pdb
+D:\BSU\TP-Solutions\Demos\Common\obj\Debug\Common.csprojAssemblyReference.cache
